@@ -4,3 +4,11 @@
 img{
   border-radius: 25%;
 }
+#events{
+  width: 30%;
+  float: left;
+  margin: 1.66%;
+}
+.images{
+  margin-top: 5%;
+}
