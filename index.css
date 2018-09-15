@@ -4,3 +4,9 @@
 img{
   border-radius: 25%;
 }
+.nav-link{
+  font-size: 15pt;
+  color: white;}
+body{
+  background: linear-gradient(to right,#536976,#292E49)
+}
