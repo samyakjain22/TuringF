@@ -7,6 +7,9 @@ img{
 .nav-link{
   font-size: 15pt;
   color: white;}
+.nav-link:hover{
+  color: black;
+}
 body{
   background: linear-gradient(to right,#536976,#292E49)
 }
