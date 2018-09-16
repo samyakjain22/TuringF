@@ -22,7 +22,7 @@ body {
 	box-sizing: border-box;
 	width: 80%;
 	margin: 0 10%;
-	
+
 	/*stacking fieldsets above each other*/
 	position: relative;
 }
@@ -72,8 +72,10 @@ a {
 }
 
 /* Set a grey background color and center the text of the "sign in" section */
-.signin {
-  background-color: #f1f1f1;
+.signin {;
   text-align: center;
   width: 200px;
+}
+.userinput{
+	border-radius: 25px;;
 }
