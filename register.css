@@ -5,6 +5,7 @@ html {
 
 body {
 	font-family: montserrat, arial, verdana;
+	background: white;
 }
 /*form styles*/
 #msform {
@@ -81,7 +82,14 @@ border-radius: 4px;
 a {
   color: dodgerblue;
 }
-
+.container{
+  margin-top: 2%;
+}
+img{
+  border-radius: 25%;
+}
+.nav-link{
+  font-size: 15pt;}
 /* Set a grey background color and center the text of the "sign in" section */
 .signin {;
   text-align: center;
