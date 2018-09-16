@@ -79,3 +79,10 @@ a {
 .userinput{
 	border-radius: 25px;;
 }
+#submit{
+    background-color: #ff9900;
+		border: 0;
+		font-size: 13pt;
+		font-weight: 700;
+		color: #EEEEEE;
+}
