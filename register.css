@@ -13,6 +13,17 @@ body {
 	text-align: center;
 	position: relative;
 }
+#pass{
+	width: 30%;
+}
+#cpass{
+	width: 30%;}
+#phone{
+	width: 30%;
+}
+#teacher{
+	width: 30%;
+}
 #msform fieldset {
 	background: white;
 	border: 0 none;
