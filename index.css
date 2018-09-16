@@ -11,5 +11,10 @@ img{
   color: black;
 }
 body{
-  background: linear-gradient(to right,#536976,#292E49)
+  background: linear-gradient(to right,#112233,#336699)
 }
+/* h1{
+  display: block;
+  margin: 25%;
+  color: white;
+} */
